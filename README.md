@@ -1,4 +1,4 @@
-The Restaurant Billing System is a C program designed to manage and automate the billing process for a restaurant. The program facilitates the entry of customer orders, calculates the total bill, applies discounts based on the total amount spent, and provides an organized summary of the transaction. The key features and functionalities of the program include:
+This Restaurant Billing System is a C program designed to manage and automate the billing process for a restaurant. The program facilitates the entry of customer orders, calculates the total bill, applies discounts based on the total amount spent, and provides an organized summary of the transaction. The key features and functionalities of the program include:
 
 1. **User-Friendly Menu Display:**
    The program begins by displaying a user-friendly menu that showcases various meals along with their corresponding prices. This ensures clarity for customers while placing their orders.
